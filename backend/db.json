@@ -1,19 +1,34 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Caneta BIC Preta",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "Notebook Mac Pro",
-            "price": 12000.09
-        },
-        {
-            "id": 3,
-            "name": "Samsung s20+",
-            "price": 5000.00
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.09
+    },
+    {
+      "id": 3,
+      "name": "Samsung s20+",
+      "price": 5000
+    },
+    {
+      "name": "form ",
+      "price": "9.8",
+      "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "1800",
+      "id": 5
+    },
+    {
+      "name": "Notebook",
+      "price": "3500.78",
+      "id": 6
+    }
+  ]
 }
