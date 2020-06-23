@@ -19,5 +19,10 @@ npm start
 
 # Técnologias usadas
 
+Front-end
+
 * Angular9 (Framework)
 * TypeScript (Linguagem)
+
+Back-end
+* Json-server
