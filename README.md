@@ -1,4 +1,4 @@
-# Site-FrontEnd-Angular
+# Site - Loja Virtual
 Criando um front-end de um site de loja com Angular9, onde através deste front-end manipularemos dados do back-end feito com o json-server.
 
 # Criando Projeto
