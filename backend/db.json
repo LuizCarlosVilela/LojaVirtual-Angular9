@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
-    },
-    {
       "id": 2,
       "name": "Notebook Mac Pro",
       "price": "120.09"
@@ -27,7 +22,7 @@
     },
     {
       "name": "Notebook",
-      "price": "3500.78",
+      "price": "3000.78",
       "id": 6
     }
   ]
