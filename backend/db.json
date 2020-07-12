@@ -3,7 +3,7 @@
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": "120.09"
+      "price": "120.1"
     },
     {
       "id": 3,
@@ -17,12 +17,12 @@
     },
     {
       "name": "Geladeira",
-      "price": "1800",
+      "price": "12121",
       "id": 5
     },
     {
-      "name": "Notebook",
-      "price": "3000.78",
+      "name": "Notebook Mac Pro",
+      "price": "1231",
       "id": 6
     }
   ]
