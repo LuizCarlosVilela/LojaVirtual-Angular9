@@ -8,7 +8,7 @@
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 12000.09
+      "price": "120.09"
     },
     {
       "id": 3,
@@ -17,7 +17,7 @@
     },
     {
       "name": "form ",
-      "price": "9.8",
+      "price": "19.8",
       "id": 4
     },
     {
